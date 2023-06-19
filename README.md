@@ -32,6 +32,7 @@
   <a href="#">
     
  <img src="https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=csharp"/>
+    <img src="https://img.shields.io/badge/ASP.NET%20CORE-blueviolet?style=for-the-badge&logo=.NET"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />                 
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />   
