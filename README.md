@@ -1,5 +1,5 @@
 ### Olá! Me chamo Glayson Leonardo 🖐
-#### Em um mundo movido pela tecnologia, minha paixão é transformar ideias em soluções, usando código.
+#### Em um mundo movido pela tecnologia, minha paixão é transformar ideias em soluções, usando código!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/glayson1997/)
